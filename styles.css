@@ -1,0 +1,26 @@
+:host {
+  font-family: MS UI Gothic;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  background-color: #fefef2;
+}
+
+.tag {
+  font-family: Arial;
+  font-size: 20px;
+  color: #dcdcdc;
+}
+
+.normal-text {
+  font-family: Arial;
+  font-size: 50px;
+}
+
+.answer {
+  color: green;
+}
+
+span {
+  color: red;
+}
